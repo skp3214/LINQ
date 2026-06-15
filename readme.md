@@ -2,3 +2,4 @@
 
 - [History ,Evolution, and Why we need LINQ](/notes/1.md)
 - [Features and Advantages of LINQ](/notes/2.md)
+- [How LINQ works internally](/notes/3.md)
